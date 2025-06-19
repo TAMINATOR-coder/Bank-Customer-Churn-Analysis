@@ -11,3 +11,8 @@ This project contains customer data grouped into tiers and analyzed for revenue,
 | [Risk_Profile_based_on_Multi_factor_condition.csv](./data/Risk_Profile_based_on_Multi_factor_condition.csv) | Risk levels assigned to premium customers |
 | [Premium_Customer_Churn_Rate.csv](./data/Premium_Customer_Churn_Rate.csv) | Rate of churn among premium customers |
 
+## SQL Script
+
+You can find the full SQL logic used in this project [here](./customer_churn_analysis.sql).
+
+
